@@ -34,6 +34,12 @@ Extracting EHR data can be done directly from the EHR system at a healthcare sit
 - **Pros:** Standardized access method; scalable; less IT-intensive; enhances data security by limiting access.
 - **Cons:** May offer limited access to EHR data; dependent on the availability and functionality of APIs.
 
+| Extraction Method      | Pros                                                               | Cons                                                              |
+|------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
+| OAuth/API-based        | Standardized access; scalable; less IT-intensive; enhances security | May offer limited access to data; dependent on API functionality  |
+| Direct Extraction      | Access to comprehensive EHR data; allows for custom queries        | Requires significant IT resources; potential privacy concerns     |
+
+
 ## Common Data Models
 
 Common Data Models (CDMs) standardize the format and terminology of healthcare data from various sources, making it easier to aggregate, share, and analyze data across different systems. Examples include the Observational Medical Outcomes Partnership (OMOP) and the Patient-Centered Outcomes Research Network (PCORnet).
