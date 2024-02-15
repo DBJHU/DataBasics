@@ -16,7 +16,8 @@ EHR data's history dates back to the 1960s with the earliest systems focusing on
 
 - **CDA (Clinical Document Architecture):** An HL7 standard designed to allow healthcare providers to exchange clinical documents, such as discharge summaries and progress notes, in a readable and structured format.
 
-- **FHIR (Fast Healthcare Interoperability Resources):** The latest standard by HL7, designed to enable healthcare information to be available, discoverable, and understandable globally, and to support a wide range of applications, including mobile apps, cloud communications, and data analysis algorithms.
+- **FHIR (Fast Healthcare Interoperability Resources):** The latest standard by HL7, designed to enable healthcare information to be available, discoverable, and understandable globally, and to support a wide range of applications, including mobile apps, cloud communications, and data analysis algorithms. For a comprehensive understanding of Fast Healthcare Interoperability Resources (FHIR) concepts and data models, refer to the [Microsoft Learn documentation on FHIR](https://learn.microsoft.com/en-us/training/modules/health-data-fast-healthcare-interoperability-resources/concepts-data-model).
+
 
 - **OAuth 2.0:** An authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Facebook, GitHub, and digital health records.
 
