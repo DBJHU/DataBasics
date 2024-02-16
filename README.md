@@ -6,7 +6,7 @@ Electronic Health Records (EHR) have revolutionized the way healthcare informati
 
 ## History of EHR Data
 
-EHR data's history dates back to the 1960s with the earliest systems focusing on simple data capture and storage. Over the decades, EHR systems have evolved significantly, incorporating more complex data types such as imaging and laboratory results, and enabling more sophisticated data sharing and interoperability. The goal has always been to improve patient care, streamline healthcare operations, and facilitate health research.
+EHR data's history dates back to the 1960s with the earliest systems focusing on simple data capture and storage. Over the decades, EHR systems have evolved significantly, incorporating more complex data types such as imaging and laboratory results, and enabling more sophisticated data sharing and interoperability. The goal has always been to improve patient care, streamline healthcare operations, and facilitate health research. EHR data vendors include Epic and Cerner.
 
 ## Definitions
 
@@ -21,9 +21,27 @@ EHR data's history dates back to the 1960s with the earliest systems focusing on
 - **OAuth 2.0:** An authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Facebook, GitHub, and digital health records.
  - NIH's All of Us Study uses OAuth 2.0 via [Sync for Science](https://www.healthit.gov/topic/sync-science).
 
+- **APIs** An API, or Application Programming Interface, is a set of rules, protocols, and tools for building software and applications. It specifies how software components should interact and allows different software applications to communicate with each other. APIs play a crucial role in enabling the integration of systems, services, and applications by providing a predefined way for accessing a set of functions or data.
+
+In web development, APIs are often used to enable the interaction between different web services. For example, a weather service might provide an API that allows developers to integrate weather data into their own websites or applications. Similarly, social media platforms offer APIs that enable developers to create apps that can post updates, access user data (with permission), or analyze trends based on the platform's data.
+
+APIs can be categorized into different types, including:
+
+- **Web APIs:** These are designed for both the web server and web browser. They include REST (Representational State Transfer), SOAP (Simple Object Access Protocol), and GraphQL APIs, among others, and are used for web services communication.
+  
+- **Operating System APIs:** These provide functions for managing and controlling computer hardware and basic system operations. They allow developers to write applications compatible with the operating system.
+
+- **Database APIs:** These allow communication between an application and a database management system. Developers can use these APIs to create, read, update, and delete database entries.
+
+- **Remote APIs:** These are used for communication between software on different machines across a network, enabling distributed computing.
+
+
 ## Extracting EHR Data
 
 Extracting EHR data can be done directly from the EHR system at a healthcare site or via web-based APIs using protocols like OAuth 2.0. Direct extraction involves accessing the EHR database or data warehouse, often requiring custom queries and significant IT support. OAuth 2.0, meanwhile, allows researchers to access data through predefined APIs with the user's consent, facilitating more standardized and scalable data access.
+
+When it comes to extracting EHR data for clinical research, the devil is in the details.
+Do not assume that all approaches can extract 100% of the relevant information or records.  Some information is either a) not reoutinely collected in EHR or b) not available through the extraction approach selected.
 
 ### Pros and Cons of Different Data Extraction Processes
 
