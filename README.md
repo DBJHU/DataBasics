@@ -41,7 +41,7 @@ Extracting EHR data can be done directly from the EHR system at a healthcare sit
 | Direct Extraction      | Access to comprehensive EHR data; allows for custom queries        | Requires significant IT resources; potential privacy concerns     |
 
 
-## Common Data Models
+### Common Data Models
 
 Common Data Models (CDMs) standardize the format and terminology of healthcare data from various sources, making it easier to aggregate, share, and analyze data across different systems. Examples include the Observational Medical Outcomes Partnership (OMOP) and the Patient-Centered Outcomes Research Network (PCORnet).
 
