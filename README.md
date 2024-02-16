@@ -61,9 +61,30 @@ Validated instruments are tools or questionnaires that have been scientifically 
 
 The integration of CDISC standards, CDEs, and validated instruments into EHR systems and research protocols can significantly enhance the quality, efficiency, and comparability of health data. This integration supports streamlined data collection and analysis, regulatory compliance and submission, and enhanced interoperability.
 
-## Resources
+## Resources and "MUST READ"papers:
+### EBMonFHIR-based tools and initiatives to support clinical research
 
-For more information on HL7, CDA, and FHIR standards, and on extracting EHR data, you can visit the following websites:
+- **Authors:** Alper B. S.
+- **Journal:** Journal of the American Medical Informatics Association : JAMIA, 30(1), 2022.
+- **DOI/URL:** [10.1093/jamia/ocac193](https://doi.org/10.1093/jamia/ocac193)
+- **PMC:** [PMC9748541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9748541/)
+
+### HL7 FHIR-based tools and initiatives to support clinical research: a scoping review
+
+- **Authors:** Duda SN, Kennedy N, Conway D, Cheng AC, Nguyen V, Zayas-Cabán T, Harris PA.
+- **Journal:** J Am Med Inform Assoc, 29(9), 2022.
+- **DOI:** [10.1093/jamia/ocac105](https://doi.org/10.1093/jamia/ocac105)
+- **PMID:** 35818340; **PMCID:** PMC9382376.
+- **URL:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/35818340/)
+
+### Technology-Enabled Clinical Trials: Transforming Medical Evidence Generation
+
+- **Authors:** Marquis-Gravel G, Roe MT, Turakhia MP, Boden W, Temple R, Sharma A, Hirshberg B, Slater P, Craft N, Stockbridge N, McDowell B, Waldstreicher J, Bourla A, Bansilal S, Wong JL, Meunier C, Kassahun H, Coran P, Bataille L, Patrick-Lake B, Hirsch B, Reites J, Mehta R, Muse ED, Chandross KJ, Silverstein JC, Silcox C, Overhage JM, Califf RM, Peterson ED.
+- **Journal:** Circulation, 140(17), 2019.
+- **DOI:** [10.1161/CIRCULATIONAHA.119.040798](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.040798)
+- **PMID:** 31634011
+
+### For more information on HL7, CDA, and FHIR standards, and on extracting EHR data, you can visit the following websites:
 
 - CDISC: [https://www.cdisc.org/](https://www.cdisc.org/)
 - Duke-Margolis International Harmonization of Real World Evidence Standards Dashboard: [https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard](https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard)
