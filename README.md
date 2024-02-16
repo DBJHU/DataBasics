@@ -49,11 +49,11 @@ Common Data Models (CDMs) standardize the format and terminology of healthcare d
 
 **CDISC:** Clinical Data Interchange Standards Consortium. The Clinical Data Interchange Standards Consortium (CDISC) is a global non-profit organization that develops and supports global data standards to improve the quality and efficiency of clinical research. CDISC standards are designed to facilitate the harmonization of clinical data and streamline research processes from protocol through analysis and reporting. This standardization supports the direct use of EHR data for research and regulatory submissions, making it easier to compare and combine data from different studies or sources.
 
-### Common Data Elements (CDEs)
+#### Common Data Elements (CDEs)
 
 Common Data Elements (CDEs) are precisely defined questions and answer choices, along with associated metadata, used in clinical research and patient care. They are intended to promote the collection of standardized data across studies and health records. By standardizing the way data is collected, stored, and exchanged, CDEs enable researchers to more easily compare and combine data from different sources, enhancing data quality and research efficiency.
 
-### Validated Instruments
+#### Validated Instruments
 
 Validated instruments are tools or questionnaires that have been scientifically proven to accurately and reliably measure a specific concept or construct, such as symptoms, quality of life, or functional status. Validation involves rigorous testing to ensure the instrument consistently produces accurate data that reflects what it is designed to measure across different populationsand settings.
 
