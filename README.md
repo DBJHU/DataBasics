@@ -20,7 +20,7 @@ EHR data's history dates back to the 1960s with the earliest systems focusing on
 
 
 - **OAuth 2.0:** An authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Facebook, GitHub, and digital health records.
-- NIH's All of Us Study uses Oauth2.0 via Sync for Science [https://www.healthit.gov/topic/sync-science].
+- NIH's All of Us Study uses Oauth2.0 via [Sync for Science] [https://www.healthit.gov/topic/sync-science].
 
 ## Extracting EHR Data
 
