@@ -86,14 +86,14 @@ The integration of CDISC standards, CDEs, and validated instruments into EHR sys
 
 ### For more information on HL7, CDA, and FHIR standards, and on extracting EHR data, you can visit the following websites:
 
-- CDISC: [https://www.cdisc.org/](https://www.cdisc.org/)
-- Duke-Margolis International Harmonization of Real World Evidence Standards Dashboard: [https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard](https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard)
-- HL7: [http://www.hl7.org](http://www.hl7.org)
-- FHIR: [http://hl7.org/fhir/](http://hl7.org/fhir/)
-- FHIR for Research Workshop (NIH) [https://datascience.nih.gov/fhir-initiatives/researchers-training]
-- National Cancer Institute CDE Resource: [https://cde.nci.nih.gov/](https://cde.nci.nih.gov/)
-- NIH Common Data Elements: [https://cde.nlm.nih.gov/home](https://cde.nlm.nih.gov/home)
-- OAuth 2.0: [https://oauth.net/2/](https://oauth.net/2/)
-- OHDSI: [https://www.ohdsi.org/](https://www.ohdsi.org/)
-- PCORnet: [https://pcornet.org/](https://pcornet.org/)
+- **CDISC:** [https://www.cdisc.org/](https://www.cdisc.org/)
+- **Duke-Margolis International Harmonization of Real World Evidence Standards Dashboard:** [https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard](https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard)
+- **HL7:** [http://www.hl7.org](http://www.hl7.org)
+- **FHIR:** [http://hl7.org/fhir/](http://hl7.org/fhir/)
+- **FHIR for Research Workshop (NIH):** [https://datascience.nih.gov/fhir-initiatives/researchers-training](https://datascience.nih.gov/fhir-initiatives/researchers-training)
+- **National Cancer Institute CDE Resource:** [https://cde.nci.nih.gov/](https://cde.nci.nih.gov/)
+- **NIH Common Data Elements:** [https://cde.nlm.nih.gov/home](https://cde.nlm.nih.gov/home)
+- **OAuth 2.0:** [https://oauth.net/2/](https://oauth.net/2/)
+- **OHDSI:** [https://www.ohdsi.org/](https://www.ohdsi.org/)
+- **PCORnet:** [https://pcornet.org/](https://pcornet.org/)
 
