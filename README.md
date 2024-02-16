@@ -32,12 +32,12 @@ Extracting EHR data can be done directly from the EHR system at a healthcare sit
 - **Cons:** Requires significant IT resources; potential privacy and security concerns; may be time-consuming.
 
 #### OAuth 2.0/API-Based Extraction:
-- **Pros:** Standardized access method; scalable; less IT-intensive; enhances data security by limiting access.
+- **Pros:** Standardized access method; scalable; less IT-intensive; enhances data security .
 - **Cons:** May offer limited access to EHR data; dependent on the availability and functionality of APIs.
 
 | Extraction Method      | Pros                                                               | Cons                                                              |
 |------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
-| OAuth/API-based        | Standardized access; scalable; less IT-intensive; enhances security | May offer limited access to data; dependent on API functionality  |
+| OAuth/API-based        | Standardized access; scalable; less IT-intensive; enhances security by limiting access | May offer limited access to data; dependent on API functionality  |
 | Direct Extraction      | Access to comprehensive EHR data; allows for custom queries        | Requires significant IT resources; potential privacy concerns     |
 
 
@@ -47,7 +47,7 @@ Common Data Models (CDMs) standardize the format and terminology of healthcare d
 
 ### Data Standards, Common Data Elements, and Validated Instruments
 
-- **CDISC:** Clinical Data Interchange Standards Consortium. The Clinical Data Interchange Standards Consortium (CDISC) is a global non-profit organization that develops and supports global data standards to improve the quality and efficiency of clinical research. CDISC standards are designed to facilitate the harmonization of clinical data and streamline research processes from protocol through analysis and reporting. This standardization supports the direct use of EHR data for research and regulatory submissions, making it easier to compare and combine data from different studies or sources.
+**CDISC:** Clinical Data Interchange Standards Consortium. The Clinical Data Interchange Standards Consortium (CDISC) is a global non-profit organization that develops and supports global data standards to improve the quality and efficiency of clinical research. CDISC standards are designed to facilitate the harmonization of clinical data and streamline research processes from protocol through analysis and reporting. This standardization supports the direct use of EHR data for research and regulatory submissions, making it easier to compare and combine data from different studies or sources.
 
 ### Common Data Elements (CDEs)
 
