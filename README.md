@@ -90,6 +90,7 @@ The integration of CDISC standards, CDEs, and validated instruments into EHR sys
 - Duke-Margolis International Harmonization of Real World Evidence Standards Dashboard: [https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard](https://healthpolicy.duke.edu/projects/international-harmonization-real-world-evidence-standards-dashboard)
 - HL7: [http://www.hl7.org](http://www.hl7.org)
 - FHIR: [http://hl7.org/fhir/](http://hl7.org/fhir/)
+- FHIR for Research Workshop (NIH) [https://datascience.nih.gov/fhir-initiatives/researchers-training]
 - National Cancer Institute CDE Resource: [https://cde.nci.nih.gov/](https://cde.nci.nih.gov/)
 - NIH Common Data Elements: [https://cde.nlm.nih.gov/home](https://cde.nlm.nih.gov/home)
 - OAuth 2.0: [https://oauth.net/2/](https://oauth.net/2/)
