@@ -101,6 +101,16 @@ The integration of CDISC standards, CDEs, and validated instruments into EHR sys
 - **DOI:** [10.1161/CIRCULATIONAHA.119.040798](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.040798)
 - **PMID:** 31634011
 
+<-- To be added:
+https://datascience.nih.gov/fhir-initiatives/researchers-training
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382376/
+EBMonFHIR-based tools and initiatives to support clinical research - PMC (nih.gov)
+
+https://www.healthit.gov/sites/default/files/page/2021-04/FHIR%20API%20Fact%20Sheet.pdf
+
+Technology-Enabled Clinical Trials: Transforming Medical Evidence Generation - PubMed (nih.gov) -->
+
 ### For more information on HL7, CDA, and FHIR standards, and on extracting EHR data, you can visit the following websites:
 
 - **CDISC:** [https://www.cdisc.org/](https://www.cdisc.org/)
