@@ -104,6 +104,8 @@ The integration of CDISC standards, CDEs, and validated instruments into EHR sys
 <!-- 
 To be added: https://datascience.nih.gov/fhir-initiatives/researchers-training
 
+https://www.healthit.gov/data/data-briefs/electronic-public-health-reporting-among-non-federal-acute-care-hospitals-during
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382376/ EBMonFHIR-based tools and initiatives to support clinical research - PMC (nih.gov)
 
 https://www.healthit.gov/sites/default/files/page/2021-04/FHIR%20API%20Fact%20Sheet.pdf
