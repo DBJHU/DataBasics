@@ -111,6 +111,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382376/ EBMonFHIR-based tools and 
 https://www.healthit.gov/sites/default/files/page/2021-04/FHIR%20API%20Fact%20Sheet.pdf
 
 Technology-Enabled Clinical Trials: Transforming Medical Evidence Generation - PubMed (nih.gov) 
+
+https://www.youtube-nocookie.com/embed/UMiPW831b1o
 -->
 
 
